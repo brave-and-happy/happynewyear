@@ -253,7 +253,7 @@ span.sete:before {
   }
 
   100% {
-    bottom: 20%;
+    bottom: 50%;
     right: 5%;
     opacity: 1;
     color: #f37573;
@@ -270,7 +270,7 @@ span.sete:before {
   }
 
   100% {
-    bottom: 20%;
+    bottom: 50%;
     left: 5%;
     opacity: 1;
     color: #f37573;
